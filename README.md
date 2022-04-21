@@ -26,9 +26,13 @@
 ###  🚀 技术专栏
 
 * [我想进大厂](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1911852085562703875#wechat_redirect)
+
 * [架构设计	](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874615391855968264#wechat_redirect)
+
 * [电商技术](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874603714678751240#wechat_redirect)
+
 * [团队管理](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874604454436536325#wechat_redirect)
+
 * [SpringBoot](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874600102896467974#wechat_redirect)
 
 
