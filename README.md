@@ -4,7 +4,8 @@
 
 ###  About Me
  
- Tom哥，计算机研究生，校招进阿里，期间还拿了 百度、华为、中兴、腾讯 等6家大厂offer，P7 技术专家。出过专利，CSDN博客专家。 
+ 作者 **Tom哥**，计算机研究生，**阿里 P7 技术专家**，拿过 百度、华为、中兴、腾讯 等6家大厂offer，出过**专利**，CSDN博客专家
+
  
 ###  🚀 大厂面试系列
 
@@ -36,11 +37,9 @@
 * [SpringBoot](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874600102896467974#wechat_redirect)
 
 
-###  🚀 微信公众号 
+###  🚀 微信公众号
 
-多年的大厂浸染，参加多次淘宝双11大促活动，在系统架构方面有丰富经验，沉淀总结在微信公众号：微观技术。
-
-专注于微服务、高并发、高性能缓存、分布式架构、高可用、团队管理等方面，喜欢挖掘开源框架亮点设计，内容都是面试官喜欢考察的。强烈推荐关注一波。
+多次参加**淘宝双11**大促活动，架构经验丰富。作为团队负责人，面试过 **500多**位候选人，如果你想去**一线大厂**，关注下方公众号回复「 **大厂** 」，领取大厂面试资料，成为offer收割机
 
 
 <img src="https://raw.githubusercontent.com/aalansehaiyang/technology-talk/master/1.jpg" width=400>
