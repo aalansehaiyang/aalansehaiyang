@@ -42,7 +42,8 @@
 
 专注于微服务、高并发、高性能缓存、分布式架构、高可用、团队管理等方面，喜欢挖掘开源框架亮点设计，内容都是面试官喜欢考察的。强烈推荐关注一波。
 
-<img src="https://raw.githubusercontent.com/aalansehaiyang/technology-talk/master/weiguanjishu.jpg">
+
+<img src="https://raw.githubusercontent.com/aalansehaiyang/technology-talk/master/1.jpg" width=400>
 
 
 ### Wait for you
