@@ -37,15 +37,3 @@
 * [SpringBoot](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874600102896467974#wechat_redirect)
 
 
-###  🚀 微信公众号
-
-多次参加**淘宝双11**大促活动，架构经验丰富。作为团队负责人，面试过 **500多**位候选人，如果你想去**一线大厂**，关注下方公众号回复「 **大厂** 」，领取大厂面试资料，成为offer收割机
-
-
-<img src="https://raw.githubusercontent.com/aalansehaiyang/technology-talk/master/docs/.vuepress/public/images/about/me/1.png" width=400>
-
-
-### Wait for you
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
